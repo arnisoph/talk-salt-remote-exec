@@ -1,0 +1,4 @@
+base:
+  '*':
+    - saltup
+    - zsh
